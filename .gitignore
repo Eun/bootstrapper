@@ -1,0 +1,10 @@
+Debug/
+Release/
+Debug/
+x64/
+.vs/
+*.VC.db
+*.user
+resource.h
+resource.rc
+properties.h
